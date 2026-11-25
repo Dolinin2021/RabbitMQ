@@ -32,3 +32,7 @@
 Результат выполнения скрипта **producer.py** и команды ```$ rabbitmqadmin get queue='hello'``` на **ноде rmq01**:
 
 <img width="1204" height="354" alt="изображение" src="https://github.com/user-attachments/assets/5ac3a657-b54f-4a7a-ae36-be4926aa5846" />
+
+Результат выполнения команды ```$ rabbitmqadmin get queue='hello'``` на **ноде rmq02**:
+
+<img width="971" height="109" alt="изображение" src="https://github.com/user-attachments/assets/8acb07a7-8150-4abe-8fca-195bb349e48c" />
