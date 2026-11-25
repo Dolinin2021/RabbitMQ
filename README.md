@@ -21,3 +21,10 @@
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/9756acc7-ae20-4d1e-9154-31b243964427" />
 
+Скриншот из веб-интерфейса с информацией о **доступных нодах в кластере:**
+
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/454282ea-aa15-4f3d-8664-5a8f7a2bfb47" />
+
+Скриншот из веб-интерфейса с информацией о **включённой политике:**
+
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/7b7ff042-804e-42f6-8a91-fef9694443b6" />
