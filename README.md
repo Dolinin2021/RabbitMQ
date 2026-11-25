@@ -15,7 +15,7 @@
 <img width="497" height="90" alt="изображение" src="https://github.com/user-attachments/assets/d17922bf-74dd-4ca9-818f-6635eed6009a" />
 
 ## Задание 3. Подготовка HA кластера
-Вывод cluster_status с двух нод (**rmq01** и **rmq02**):
+Вывод **cluster_status** с двух нод (**rmq01** и **rmq02**):
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/42da0208-82ec-41d3-bc59-381546208aec" />
 
