@@ -36,3 +36,7 @@
 Результат выполнения команды ```$ rabbitmqadmin get queue='hello'``` на **ноде rmq02**:
 
 <img width="971" height="109" alt="изображение" src="https://github.com/user-attachments/assets/8acb07a7-8150-4abe-8fca-195bb349e48c" />
+
+Результат выполнения скрипта **consumer.py** на **ноде rmq02**:
+
+<img width="402" height="57" alt="изображение" src="https://github.com/user-attachments/assets/62cdd856-d3f5-4f04-957f-fd32af2114b4" />
