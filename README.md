@@ -28,3 +28,7 @@
 Скриншот из веб-интерфейса с информацией о **включённой политике:**
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/7b7ff042-804e-42f6-8a91-fef9694443b6" />
+
+Результат выполнения скрипта **producer.py** и команды ```$ rabbitmqadmin get queue='hello'``` на **ноде rmq01**:
+
+<img width="1204" height="354" alt="изображение" src="https://github.com/user-attachments/assets/5ac3a657-b54f-4a7a-ae36-be4926aa5846" />
